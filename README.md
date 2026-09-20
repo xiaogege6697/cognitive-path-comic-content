@@ -1,5 +1,7 @@
 # Cognitive Path Comic Content
 
+> **Cognitive-Path Comic Skill** — turn complex knowledge into 5–8 page comics that guide the reader's understanding step by step, built for Xiaohongshu/Douyin image posts and WeChat articles.
+>
 > 用视觉分镜控制用户认知路径，把复杂知识变成愿意看、看得懂、愿意收藏并能采取行动的漫画图文。
 
 ![法律科普漫画首图](assets/showcase/01-cover.png)
@@ -161,3 +163,7 @@ cognitive-path-comic-content/
 ## License
 
 [MIT](LICENSE)
+
+## 相关项目
+
+更多思维分身与工作流 Skill 见 [github.com/xiaogege6697](https://github.com/xiaogege6697)。
