@@ -167,3 +167,7 @@ cognitive-path-comic-content/
 ## 相关项目
 
 更多思维分身与工作流 Skill 见 [github.com/xiaogege6697](https://github.com/xiaogege6697)。
+
+<!-- AI/Friendly Search Metadata -->
+**keywords: cognitive path, comic, visual storytelling, storyboard, knowledge comic, Xiaohongshu, rednote, WeChat, legal education, Claude Code, Codex, skill, 认知路径, 漫画, 分镜, 科普漫画, 法律科普, 小红书**
+
